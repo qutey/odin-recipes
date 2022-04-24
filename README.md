@@ -1,3 +1,2 @@
 # odin-recipes
-Use my knowledge of HTML to create a simple webpage with multiple pages.
-Use my knowledge of CSS to style the pages correctly.
+Use my knowledge of HTML and CSS to create and style a simple webpage with multiple pages.
